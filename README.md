@@ -3,9 +3,9 @@ I am on a break from github right now, and trying out Azure DevOps and other Mic
 
 
 ### My skills:
-| Front end | Back end | IDE | other|
+| Back end | front end | IDE | other|
 | :------------------- | :----------: | ----------: |----------: |
-|![My Skills](https://skillicons.dev/icons?i=cs,dotnet,sqlite,mssql,mongodb,vite,nodejs,npm,postgres&perline=3) | ![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,css,html,npm,react,svelte&perline=3) | ![My Skills](https://skillicons.dev/icons?i=rider,visualstudio,vscode&perline=3) | ![My Skills](https://skillicons.dev/icons?i=postman,docker,git,github,&perline=3) |
+|![My Skills](https://skillicons.dev/icons?i=cs,dotnet,sqlite,mssql,mongodb,vite,nodejs,npm,postgres&perline=3) |  ![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,css,html,npm,react,svelte&perline=3) | ![My Skills](https://skillicons.dev/icons?i=rider,visualstudio,vscode&perline=3) | ![My Skills](https://skillicons.dev/icons?i=postman,docker,git,github,&perline=3) |
 
 ## Projects
 | Project | Description | Stack |
