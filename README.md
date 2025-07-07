@@ -5,7 +5,7 @@ I am on a break from github right now, and trying out Azure DevOps and other Mic
 | Project | Description | Stack |
 | :------------------- | :----------: | ----------: |
 |     [AuthWithJwtBearer](https://github.com/HesperisNivea/AuthWithJwtBearer/tree/master)       | AuthWithJwtBearer is a C#/.NET application that implements authentication using JWT Bearer tokens. It provides a foundational setup for secure API access, and includes Swagger integration for testing and documentation.    | [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,sqlite&perline=3)](https://skillicons.dev)  |
-| Next.js              | Express      | MongoDB     |
+| Next.js              | Svelte-based dashboard for visualizing meeting data retrieved securely from Microsoft Graph via app-only authentication. Implemented reusable UI components (work in progress) |  [![My Skills](https://skillicons.dev/icons?i=svelte,html,css,tailwind,typescript&perline=3)]   |
 | Vue.js               | Nest.js      | Redis       |
 
 <!--
