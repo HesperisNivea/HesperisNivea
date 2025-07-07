@@ -2,11 +2,12 @@
 I am on a break from github right now, and trying out Azure DevOps and other Microsoft services like PowerApps or Sharepoint.
 
 
-My skills:
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,sqlite,mssql,mongodb,bootstrap,tailwind,css,html,rider,visualstudio,vscode,vite,nodejs,npm,postgres,postman,react,svelte,docker,dotnet,git,github,&perline=3)]
+### My skills:
+| Front end | Back end | IDE | other|
+| :------------------- | :----------: | ----------: |----------: |
+|![My Skills](https://skillicons.dev/icons?i=cs,dotnet,sqlite,mssql,mongodb,vite,nodejs,npm,postgres&perline=3)|![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,css,html,npm,react,svelte&perline=3) |![My Skills](https://skillicons.dev/icons?i=rider,visualstudio,vscode&perline=3) | ![My Skills](https://skillicons.dev/icons?i=postman,docker,git,github,&perline=3) |
 
-##Projects
-
+## Projects
 | Project | Description | Stack |
 | :------------------- | :----------: | ----------: |
 |     [AuthWithJwtBearer](https://github.com/HesperisNivea/AuthWithJwtBearer/tree/master)       | AuthWithJwtBearer is a C#/.NET application that implements authentication using JWT Bearer tokens. It provides a foundational setup for secure API access, and includes Swagger integration for testing and documentation.    | [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,sqlite&perline=3)](https://skillicons.dev)  |
