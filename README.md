@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I am on a break from github right now, and trying out Azure DevOps and other Microsoft services like PowerApps or Sharepoint. 
+
+| Project | Description | Stack |
+| :------------------- | :----------: | ----------: |
+|     [AuthWithJwtBearer](https://github.com/HesperisNivea/AuthWithJwtBearer/tree/master)       | AuthWithJwtBearer is a C#/.NET application that implements authentication using JWT Bearer tokens. It provides a foundational setup for secure API access, and includes Swagger integration for testing and documentation.    | [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,sqlite&perline=3)](https://skillicons.dev)  |
+| Next.js              | Express      | MongoDB     |
+| Vue.js               | Nest.js      | Redis       |
+
 <!--
 **HesperisNivea/HesperisNivea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
