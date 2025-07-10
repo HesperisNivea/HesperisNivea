@@ -1,6 +1,6 @@
 ## 👋 Hi there!
 
-I'm currently on a break from GitHub, exploring new tools and expanding my skillset with Microsoft services like **Azure DevOps**, **PowerApps**, and **SharePoint**.
+I'm currently on a break from GitHub, exploring new tools and expanding my skillset with Microsoft services like **Azure DevOps**, **PowerApps**, and **SharePoint**. - 2025-06-10
 
 Feel free to check out my past projects below—and stay tuned for what’s next!
 
